@@ -1,7 +1,7 @@
 ---
 title: Plugins adoption programme
 sidebar_position: 9
-sidebar_label: Adoption programme
+sidebar_label: Adoption programme 
 tags:
   - Guidelines for contributors
   - Plugins
